@@ -1,0 +1,13 @@
+---
+  strain: edit me
+  growdiary: edit me
+  influxdb:
+    - user: telegraf
+    - password: edit me
+    - db_name: edit me
+    - url: edit me
+    - port: 8086
+  netio:
+    - url: edit me
+    - user: edit me
+    - password: edit me
